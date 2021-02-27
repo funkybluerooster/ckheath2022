@@ -123,7 +123,7 @@ h3 {
 }
 
 h1 {
-    font-size: 4rem;
+    font-size: 3rem;
     line-height: 6.375rem;
 }
 
@@ -459,11 +459,11 @@ a {
     margin-left: 1.2rem;
     padding: 0;
     margin-top: 0;
-    color: #c4c4c4;
+    color: #331B18;
 }
 
 #navigation li a {
-    color: #c4c4c4;
+    color: #331B18;
     font-size: 0.875rem;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 700;
@@ -507,6 +507,15 @@ a {
     padding-top: 14.625rem;
     color: white;
     text-align: center;
+}
+
+#donations {
+    background-color: #383838;
+}
+
+.donation-copy h2 {
+    font-family: proxima-nova, sans-serif;
+    font-size: 2rem;
 }
 
 
@@ -1676,4 +1685,9 @@ button {
 
 .comment_form h3 {
     margin-bottom: 2rem;
+}
+
+.donation-copy h3 {
+    font-family: proxima-nova, sans-serif;
+    font-size: 2rem;
 }
