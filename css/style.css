@@ -99,14 +99,14 @@ html {
 p {
     font-size: 1rem;
     line-height: 1.625em;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'proxima-nova', sans-serif;
     font-weight: 300;
 }
 
 a {
     font-size: 1em;
     line-height: 1.625rem;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'proxima-nova', sans-serif;
     font-weight: 600;
     text-decoration: none;
 }
@@ -118,7 +118,7 @@ a:hover {
 h1,
 h2,
 h3 {
-    font-family: 'Lane', sans-serif;
+    font-family: 'atrament-web', sans-serif;
     font-weight: normal;
 }
 
@@ -139,21 +139,21 @@ h3 {
 }
 
 h4 {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'proxima-nova', sans-serif;
     font-size: 1rem;
     line-height: 1.625rem;
     font-weight: 600;
 }
 
 h5 {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'proxima-nova', sans-serif;
     font-size: 1rem;
     line-height: 1.625rem;
     font-weight: 600;
 }
 
 h6 {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'proxima-nova', sans-serif;
     font-size: 0.75rem;
     line-height: 2.5rem;
     font-weight: 600;
@@ -278,7 +278,7 @@ a {
 
 .cta1 {
     display: inline-block;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'proxima-nova', sans-serif;
     font-size: 1rem;
     font-weight: 700;
     font-style: normal;
@@ -465,7 +465,7 @@ a {
 #navigation li a {
     color: #331B18;
     font-size: 0.875rem;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'proxima-nova', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     text-decoration: none;
@@ -1072,7 +1072,7 @@ a {
 .portfolio_item_tasks ul li {
     font-size: 1rem;
     line-height: 1.625em;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'proxima-nova', sans-serif;
     font-weight: 300;
     margin: 1rem;
     margin-left: 0rem;
@@ -1418,7 +1418,7 @@ input {
     padding-top: 0.1rem;
     width: 100%;
     height: 3.25rem;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'proxima-nova', sans-serif;
     font-size: 1rem;
     font-weight: 300;
     color: #444;
@@ -1436,7 +1436,7 @@ textarea {
     padding-top: 1rem;
     width: 100%;
     height: 8rem;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'proxima-nova', sans-serif;
     font-size: 1rem;
     font-weight: 300;
     color: #444;
@@ -1690,4 +1690,233 @@ button {
 .donation-copy h3 {
     font-family: proxima-nova, sans-serif;
     font-size: 2rem;
+}
+
+form.row {
+    margin: 0 -16px
+}
+
+form .col-xs-12,
+form col-xs-11,
+form .col-xs-10,
+form .col-xs-9,
+form .col-xs-8,
+form .col-xs-7,
+form .col-xs-6,
+form .col-xs-5,
+form .col-xs-4,
+form .col-xs-3,
+form .col-xs-2,
+form .col-xs-1 {
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 0;
+    padding-bottom: 33px
+}
+
+form .col-xs-12.toggle-label label,
+form col-xs-11.toggle-label label,
+form .col-xs-10.toggle-label label,
+form .col-xs-9.toggle-label label,
+form .col-xs-8.toggle-label label,
+form .col-xs-7.toggle-label label,
+form .col-xs-6.toggle-label label,
+form .col-xs-5.toggle-label label,
+form .col-xs-4.toggle-label label,
+form .col-xs-3.toggle-label label,
+form .col-xs-2.toggle-label label,
+form .col-xs-1.toggle-label label {
+    top: -14px;
+    font-weight: 600;
+    font-size: .6315rem;
+    line-height: 1em;
+    color: #fff;
+    text-transform: uppercase;
+    left: 16px;
+    letter-spacing: 0
+}
+
+form .col-xs-12 label,
+form col-xs-11 label,
+form .col-xs-10 label,
+form .col-xs-9 label,
+form .col-xs-8 label,
+form .col-xs-7 label,
+form .col-xs-6 label,
+form .col-xs-5 label,
+form .col-xs-4 label,
+form .col-xs-3 label,
+form .col-xs-2 label,
+form .col-xs-1 label {
+    font-size: 1.052rem;
+    left: 30px
+}
+
+form .col-xs-12 input,
+form .col-xs-12 textarea,
+form .col-xs-12 select,
+form col-xs-11 input,
+form col-xs-11 textarea,
+form col-xs-11 select,
+form .col-xs-10 input,
+form .col-xs-10 textarea,
+form .col-xs-10 select,
+form .col-xs-9 input,
+form .col-xs-9 textarea,
+form .col-xs-9 select,
+form .col-xs-8 input,
+form .col-xs-8 textarea,
+form .col-xs-8 select,
+form .col-xs-7 input,
+form .col-xs-7 textarea,
+form .col-xs-7 select,
+form .col-xs-6 input,
+form .col-xs-6 textarea,
+form .col-xs-6 select,
+form .col-xs-5 input,
+form .col-xs-5 textarea,
+form .col-xs-5 select,
+form .col-xs-4 input,
+form .col-xs-4 textarea,
+form .col-xs-4 select,
+form .col-xs-3 input,
+form .col-xs-3 textarea,
+form .col-xs-3 select,
+form .col-xs-2 input,
+form .col-xs-2 textarea,
+form .col-xs-2 select,
+form .col-xs-1 input,
+form .col-xs-1 textarea,
+form .col-xs-1 select {
+    border: 3px solid #fff;
+    background: 0 0;
+    padding: .5rem .75rem;
+    font-size: 1.052rem
+}
+
+form .col-xs-12 input:hover,
+form .col-xs-12 input:focus,
+form .col-xs-12 textarea:hover,
+form .col-xs-12 textarea:focus,
+form .col-xs-12 select:hover,
+form .col-xs-12 select:focus,
+form col-xs-11 input:hover,
+form col-xs-11 input:focus,
+form col-xs-11 textarea:hover,
+form col-xs-11 textarea:focus,
+form col-xs-11 select:hover,
+form col-xs-11 select:focus,
+form .col-xs-10 input:hover,
+form .col-xs-10 input:focus,
+form .col-xs-10 textarea:hover,
+form .col-xs-10 textarea:focus,
+form .col-xs-10 select:hover,
+form .col-xs-10 select:focus,
+form .col-xs-9 input:hover,
+form .col-xs-9 input:focus,
+form .col-xs-9 textarea:hover,
+form .col-xs-9 textarea:focus,
+form .col-xs-9 select:hover,
+form .col-xs-9 select:focus,
+form .col-xs-8 input:hover,
+form .col-xs-8 input:focus,
+form .col-xs-8 textarea:hover,
+form .col-xs-8 textarea:focus,
+form .col-xs-8 select:hover,
+form .col-xs-8 select:focus,
+form .col-xs-7 input:hover,
+form .col-xs-7 input:focus,
+form .col-xs-7 textarea:hover,
+form .col-xs-7 textarea:focus,
+form .col-xs-7 select:hover,
+form .col-xs-7 select:focus,
+form .col-xs-6 input:hover,
+form .col-xs-6 input:focus,
+form .col-xs-6 textarea:hover,
+form .col-xs-6 textarea:focus,
+form .col-xs-6 select:hover,
+form .col-xs-6 select:focus,
+form .col-xs-5 input:hover,
+form .col-xs-5 input:focus,
+form .col-xs-5 textarea:hover,
+form .col-xs-5 textarea:focus,
+form .col-xs-5 select:hover,
+form .col-xs-5 select:focus,
+form .col-xs-4 input:hover,
+form .col-xs-4 input:focus,
+form .col-xs-4 textarea:hover,
+form .col-xs-4 textarea:focus,
+form .col-xs-4 select:hover,
+form .col-xs-4 select:focus,
+form .col-xs-3 input:hover,
+form .col-xs-3 input:focus,
+form .col-xs-3 textarea:hover,
+form .col-xs-3 textarea:focus,
+form .col-xs-3 select:hover,
+form .col-xs-3 select:focus,
+form .col-xs-2 input:hover,
+form .col-xs-2 input:focus,
+form .col-xs-2 textarea:hover,
+form .col-xs-2 textarea:focus,
+form .col-xs-2 select:hover,
+form .col-xs-2 select:focus,
+form .col-xs-1 input:hover,
+form .col-xs-1 input:focus,
+form .col-xs-1 textarea:hover,
+form .col-xs-1 textarea:focus,
+form .col-xs-1 select:hover,
+form .col-xs-1 select:focus {
+    border: solid 3px #fdd54f;
+    background: #fff;
+    color: #666
+}
+
+form .col-xs-12 textarea,
+form col-xs-11 textarea,
+form .col-xs-10 textarea,
+form .col-xs-9 textarea,
+form .col-xs-8 textarea,
+form .col-xs-7 textarea,
+form .col-xs-6 textarea,
+form .col-xs-5 textarea,
+form .col-xs-4 textarea,
+form .col-xs-3 textarea,
+form .col-xs-2 textarea,
+form .col-xs-1 textarea {
+    height: 110px;
+    min-height: 110px
+}
+
+form .col-xs-12 input[type=checkbox]+label:before,
+form col-xs-11 input[type=checkbox]+label:before,
+form .col-xs-10 input[type=checkbox]+label:before,
+form .col-xs-9 input[type=checkbox]+label:before,
+form .col-xs-8 input[type=checkbox]+label:before,
+form .col-xs-7 input[type=checkbox]+label:before,
+form .col-xs-6 input[type=checkbox]+label:before,
+form .col-xs-5 input[type=checkbox]+label:before,
+form .col-xs-4 input[type=checkbox]+label:before,
+form .col-xs-3 input[type=checkbox]+label:before,
+form .col-xs-2 input[type=checkbox]+label:before,
+form .col-xs-1 input[type=checkbox]+label:before {
+    color: #fdd54f;
+    font-size: 1.421rem;
+    line-height: 1em;
+    vertical-align: middle
+}
+
+form .col-xs-12 input[type=checkbox]:checked+label:before,
+form col-xs-11 input[type=checkbox]:checked+label:before,
+form .col-xs-10 input[type=checkbox]:checked+label:before,
+form .col-xs-9 input[type=checkbox]:checked+label:before,
+form .col-xs-8 input[type=checkbox]:checked+label:before,
+form .col-xs-7 input[type=checkbox]:checked+label:before,
+form .col-xs-6 input[type=checkbox]:checked+label:before,
+form .col-xs-5 input[type=checkbox]:checked+label:before,
+form .col-xs-4 input[type=checkbox]:checked+label:before,
+form .col-xs-3 input[type=checkbox]:checked+label:before,
+form .col-xs-2 input[type=checkbox]:checked+label:before,
+form .col-xs-1 input[type=checkbox]:checked+label:before {
+    color: #fdd54f;
+    font-weight: 600
 }
