@@ -3948,7 +3948,7 @@ screen and (max-height:300px) {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #0c1a38;
+    background-color: #36291E;
     z-index: 999999;
     height: 100vh;
     width: 100%
@@ -3958,7 +3958,7 @@ html,
 body {
     overflow-x: hidden;
     font-size: 19px;
-    background: #0c1a38;
+    background: #36291E;
     font-family: proxima-nova, sans-serif
 }
 
@@ -5206,7 +5206,7 @@ img {
     line-height: 49px;
     text-align: center;
     text-transform: uppercase;
-    color: #202e4c;
+    color: #36291E;
     font-weight: 800;
     font-size: 1.368rem
 }
@@ -5304,7 +5304,7 @@ section {
 }
 
 .sectionTitle.blue {
-    color: #202e4c
+    color: #36291E
 }
 
 .sectionTitle.sml {
@@ -5913,7 +5913,7 @@ form .col-xs-1 input[type=checkbox]:checked+label:before {
 
 #signup #signup-form {
     padding: 1.35em 0 .3em;
-    background: #202e4c
+    background: #36291E
 }
 
 #signup #signup-form form {
@@ -5934,7 +5934,7 @@ form .col-xs-1 input[type=checkbox]:checked+label:before {
 #signup #signup-head .signup-title {
     font-size: 2.63rem;
     text-transform: uppercase;
-    color: #202e4c;
+    color: #36291E;
     padding: 0
 }
 
@@ -6213,7 +6213,7 @@ body#home #banner #bannerLogo {
     font-weight: 700;
     font-size: 1.052rem;
     line-height: 1.639em;
-    color: #202e4c;
+    color: #36291E;
     padding-top: .3em;
     text-transform: uppercase
 }
