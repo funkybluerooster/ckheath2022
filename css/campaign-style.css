@@ -5213,19 +5213,19 @@ img {
 
 .button:hover,
 .button:focus {
-    color: #202e4c
+    color: #36291E;
 }
 
 .button.hollow {
     background: 0 0;
     border: 3px solid;
-    color: #202e4c;
+    color: #36291E;
     line-height: 45px
 }
 
 .button.hollow:hover,
 .button.hollow:focus {
-    color: #202e4c
+    color: #36291E;
 }
 
 .button.hollow.white {
@@ -5304,7 +5304,7 @@ section {
 }
 
 .sectionTitle.blue {
-    color: #36291E
+    color: #36291E;
 }
 
 .sectionTitle.sml {
@@ -5338,7 +5338,7 @@ section {
 .endorse-title {
     font-size: 2.368rem;
     text-transform: uppercase;
-    color: #202e4c;
+    color: #36291E;
     padding-bottom: .02em
 }
 
@@ -5398,7 +5398,7 @@ section {
 }
 
 #language-bar ul li a {
-    color: #202e4c
+    color: #36291E;
 }
 
 header {
@@ -5460,7 +5460,7 @@ header nav #nav #close-menu {
     line-height: 1.039em;
     text-align: center;
     text-transform: uppercase;
-    color: #202e4c;
+    color: #36291E;
     background: #fdd54f;
     padding: .66em 0;
     margin-bottom: 1.5em
@@ -5514,7 +5514,7 @@ header nav #toggle-menu {
 header nav #toggle-menu:hover,
 header nav #toggle-menu:focus {
     background: #fdd54f;
-    color: #202e4c;
+    color: #36291E;
     text-decoration: none;
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
@@ -5591,7 +5591,7 @@ header nav ul li a {
 
 header nav ul li.current-menu-item a {
     background: #fdd54f;
-    color: #202e4c
+    color: #36291E;
 }
 
 ul.social-profiles {
@@ -5913,7 +5913,7 @@ form .col-xs-1 input[type=checkbox]:checked+label:before {
 
 #signup #signup-form {
     padding: 1.35em 0 .3em;
-    background: #36291E
+    background: #36291E;
 }
 
 #signup #signup-form form {
@@ -5946,7 +5946,7 @@ form .col-xs-1 input[type=checkbox]:checked+label:before {
 
 footer {
     padding: .85em 0 5em;
-    background: #36291E
+    background: #36291E;
 }
 
 footer #footerLogo {
@@ -6056,12 +6056,13 @@ body#home footer {
 
 body#home #banner {
     background-image: url(images/banner-image.jpg);
-    background-color: #202e4c;
+    background-color: #36291E;
     position: relative
 }
 
 body#home #banner:before {
-    background: linear-gradient(92.21deg, #202e4c 5.28%, rgba(32, 46, 76, 0.75) 38.31%, rgba(32, 46, 76, 0) 61.11%);
+    background: linear-gradient(92.21deg, #36291E;
+    5.28%, rgba(32, 46, 76, 0.75) 38.31%, rgba(32, 46, 76, 0) 61.11%);
     content: "";
     position: absolute;
     width: 100%;
@@ -6083,7 +6084,8 @@ body#home #banner:before {
     }
     body#home #banner:before {
         height: 470px;
-        background: linear-gradient(to bottom, rgba(32, 46, 76, 0) 0%, rgba(32, 46, 76, 0) 39%, rgba(32, 46, 76, 0.75) 62%, #202e4c 100%)
+        background: linear-gradient(to bottom, rgba(32, 46, 76, 0) 0%, rgba(32, 46, 76, 0) 39%, rgba(32, 46, 76, 0.75) 62%, #36291E;
+        100%)
     }
 }
 
@@ -6109,7 +6111,7 @@ body#home #banner h2 {
 
 body#home #banner h1 span,
 body#home #banner h2 span {
-    color: #202e4c;
+    color: #36291E;
     background: #fdd54f;
     padding: 0 .2em;
     display: inline-block;
@@ -6246,7 +6248,8 @@ body#home #banner #bannerLogo {
 }
 
 #meet-john-home:before {
-    background: linear-gradient(360deg, #36291E 21.62%, rgba(32, 46, 76, 0.63) 43.94%, rgba(32, 46, 76, 0) 75.95%);
+    background: linear-gradient(360deg, #36291E;
+    21.62%, rgba(32, 46, 76, 0.63) 43.94%, rgba(32, 46, 76, 0) 75.95%);
     content: "";
     position: absolute;
     width: 100%;
@@ -6257,7 +6260,8 @@ body#home #banner #bannerLogo {
 
 @media only screen and (max-width: 739px) {
     #meet-john-home:before {
-        background: linear-gradient(360deg, #36291E 50.62%, rgba(32, 46, 76, 0.63) 70.94%, rgba(32, 46, 76, 0) 85.95%)
+        background: linear-gradient(360deg, #36291E;
+        50.62%, rgba(32, 46, 76, 0.63) 70.94%, rgba(32, 46, 76, 0) 85.95%)
     }
 }
 
@@ -6484,7 +6488,7 @@ body#endorsement-page main .entry .endorse-summary p {
 }
 
 body.single-default .post-summary a {
-    color: #202e4c;
+    color: #36291E;
     font-weight: 700
 }
 
@@ -6504,7 +6508,7 @@ main .post-title {
     font-size: 1.85rem;
     text-transform: uppercase;
     padding-bottom: .35em;
-    color: #202e4c
+    color: #36291E;
 }
 
 @media only screen and (max-width: 539px) {
@@ -6514,7 +6518,7 @@ main .post-title {
 }
 
 main .post-title a {
-    color: #202e4c;
+    color: #36291E;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     -ms-transition: all .3s;
@@ -6830,12 +6834,14 @@ body#story-page #banner {
     height: 100%;
     left: 0;
     top: 0;
-    background: linear-gradient(90deg, #36291E 41.04%, rgba(32, 46, 76, 0) 51.6%)
+    background: linear-gradient(90deg, #36291E;
+    41.04%, rgba(32, 46, 76, 0) 51.6%)
 }
 
 @media(max-width: 939px) {
     #born-to-serve:after {
-        background: linear-gradient(90deg, #36291E 51.04%, rgba(54, 41, 30, 1) 61.6%)
+        background: linear-gradient(90deg, #36291E;
+        51.04%, rgba(54, 41, 30, 1) 61.6%)
     }
 }
 
