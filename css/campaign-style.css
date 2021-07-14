@@ -5481,7 +5481,7 @@ header nav #nav #close-menu:hover {
     header nav #nav {
         display: none;
         position: fixed;
-        background: rgba(32, 46, 76, .85);
+        background: rgba(76, 57, 32, 0.85);
         width: 100vw;
         z-index: 99;
         left: 0;
@@ -6248,8 +6248,7 @@ body#home #banner #bannerLogo {
 }
 
 #meet-john-home:before {
-    background: linear-gradient(360deg, #36291E;
-    21.62%, rgba(32, 46, 76, 0.63) 43.94%, rgba(32, 46, 76, 0) 75.95%);
+    background: linear-gradient(360deg, #36291E 21.62%, rgba(32, 46, 76, 0.63) 43.94%, rgba(32, 46, 76, 0) 75.95%);
     content: "";
     position: absolute;
     width: 100%;
@@ -6260,8 +6259,7 @@ body#home #banner #bannerLogo {
 
 @media only screen and (max-width: 739px) {
     #meet-john-home:before {
-        background: linear-gradient(360deg, #36291E;
-        50.62%, rgba(32, 46, 76, 0.63) 70.94%, rgba(32, 46, 76, 0) 85.95%)
+        background: linear-gradient(360deg, #36291E 50.62%, rgba(32, 46, 76, 0.63) 70.94%, rgba(32, 46, 76, 0) 85.95%)
     }
 }
 
