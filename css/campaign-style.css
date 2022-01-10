@@ -5938,8 +5938,42 @@ form .col-xs-1 input[type=checkbox]:checked+label:before {
     padding: 0
 }
 
+#tickets {
+    padding: 0
+}
+
+#tickets #tickets-form {
+    padding: 1.35em 0 .3em;
+    background: #36291E;
+}
+
+#tickets #tickets-form form {
+    margin: 0 -7px
+}
+
+#tickets #tickets-form form .col-xs-12 {
+    padding-bottom: 15px;
+    padding-left: 7px;
+    padding-right: 7px
+}
+
+#tickets #tickets-head {
+    padding: 1.15em 0 .6em;
+    background: #36291E;
+}
+
+#tickets #tickets-head .tickets-title {
+    font-size: 2.63rem;
+    text-transform: uppercase;
+    color: #e9c13b;
+    padding: 0
+}
+
 @media only screen and (max-width: 739px) {
     #signup #signup-head .signup-title {
+        font-size: 2.2rem
+    }
+    #tickets #tickets-head .tickets-title {
         font-size: 2.2rem
     }
 }
@@ -6231,6 +6265,23 @@ body#home #banner #bannerLogo {
     padding-top: 3.5em;
     padding-bottom: 3.825em;
     background-image: url(../images/parallax_bg.jpg)
+}
+
+.event-title h1 {
+    font-size: 2rem;
+}
+
+#sponsors {
+    padding-top: 3.5em;
+    padding-bottom: 3.825em;
+    text-align: center;
+    background-color: #f5f5f5;
+}
+
+#location {
+    padding-top: 3.5em;
+    padding-bottom: 3.825em;
+    background-image: url(../images/ashton-depot.jpg)
 }
 
 #meet-john-home {
